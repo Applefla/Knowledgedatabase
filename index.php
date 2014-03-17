@@ -7,7 +7,7 @@
 	<div class="wrapper">
 		<div class="home">
 			<h1>Home</h1>
-			
+			sawag
 		</div>
 		<div class="top">
 			<img src="">
