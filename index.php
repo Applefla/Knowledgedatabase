@@ -7,6 +7,7 @@
 	<div class="wrapper">
 		<div class="home">
 			<h1>Home</h1>
+			<input type="text">
 		</div>
 		<div class="top">
 			<img src="">
