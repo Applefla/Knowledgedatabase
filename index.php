@@ -23,18 +23,18 @@
 			<button class="btn" id="contact">Contact</button>
 		</div>
 		<div>
-			<h3 class="align">Tutorial</h3>
-			<button class="first">HTML</button>
-			<button class="btn_query">CSS</button>
-			<button class="btn_query">JQUERY</button>
-			<button class="btn_query">PHP</button>
+			<h3 id="t_h3" class="align">Tutorial</h3>
+			<button class="first1">HTML</button>
+			<button class="btn_query1">CSS</button>
+			<button class="btn_query1">JQUERY</button>
+			<button class="btn_query1">PHP</button>
 		</div>
 		<div>
-			<h3 class="align">Blog</h3>
-			<button class="first">HTML</button>
-			<button class="btn_query">CSS</button>
-			<button class="btn_query">JQUERY</button>
-			<button class="btn_query">PHP</button>
+			<h3 id="b_h3" class="align">Blog</h3>
+			<button class="first2">HTML</button>
+			<button class="btn_query2">CSS</button>
+			<button class="btn_query2">JQUERY</button>
+			<button class="btn_query2">PHP</button>
 		</div>
 		<p class="copyright">Copyright &copy; Disclaimer-contact</p>
 	</div>
@@ -42,4 +42,6 @@
 
 
 </body>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="script.js"></script>
 </html>
