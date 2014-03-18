@@ -57,6 +57,11 @@ h1{
 	margin-right:50px;
 }
 
+#home-button2{
+	width:95px;
+	margin-right:350px;
+}
+
 #tutorial{
 	width:95px;
 	margin-right:50px;
@@ -68,6 +73,11 @@ h1{
 }
 
 #contact{
+	width:95px;
+	margin-right:50px;
+}
+
+#contact2{
 	width:95px;
 	margin-right:50px;
 }
@@ -134,7 +144,7 @@ h1{
 }
 
 .copyright{
-	margin-top:43%;
+	margin-top:400px;
 	margin-right:30px;
 	float:right;
 }

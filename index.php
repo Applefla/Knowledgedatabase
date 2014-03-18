@@ -9,12 +9,12 @@
 
 		<div class="home">
 			<input class="search" type="text">
-			<h1>Home</h1>
+			<h1>AppleFla</h1>
 		</div>
 	
 		<img class="logo" src="./img/logo.png">
 		<div class="kiezen">
-			<button class="btn" id="home-button">Home</button>
+		<a href="index.php"><button class="btn" id="home-button">Home</button></a>
 
 			<button class="btn" id="tutorial">Tutorials</button>
 
@@ -24,7 +24,7 @@
 		</div>
 		<div>
 			<h3 id="t_h3" class="align">Tutorial</h3>
-			<button class="first1">HTML</button>
+			<a href="tutorial_frame.php"><button class="first1">HTML</button></a>
 			<button class="btn_query1">CSS</button>
 			<button class="btn_query1">JQUERY</button>
 			<button class="btn_query1">PHP</button>
