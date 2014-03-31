@@ -1,3 +1,10 @@
+<?php
+	require 'connect.inc.php'
+
+
+?>
+
+
 <!DOCTYPE html>
 <html>
 <head>
