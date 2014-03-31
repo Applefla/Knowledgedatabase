@@ -18,6 +18,13 @@
 			<button class="btn" id="contact2">Contact</button>
 		</div>
 
+		<div>
+			<h3 class="align">Tutorial</h3>
+		</div>
+
+
+
+
 		<p class="copyright">Copyright &copy; Disclaimer-contact</p>
 	</div>
 
